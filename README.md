@@ -8,7 +8,7 @@
 - JDK
 - Gradle
 - Platform Tools
-- Python 3.8+
+- Python 3.9+
 - Aiogram
 - Telegram bot token
 
